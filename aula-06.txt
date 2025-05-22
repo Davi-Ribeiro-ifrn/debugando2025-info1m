@@ -1,0 +1,17 @@
+Q1 - Escreva um algoritimo usando linguagem natural que calcule numeros inteiros.
+
+    1. leia / pegue os valores desses dois numeros;
+    2. O resultado será a soma desses dois numeros;
+    
+Q2 - Escreva um algoritimo usando linguagem natural que calcule numeros inteiros e mostre o resultado.
+
+    1. leia / pegue os valores desses dois numeros;
+    2. O resultado será a soma desses dois numeros;
+    3. Mostre o resultado dessa soma
+
+Q3 -  Escreva um algoritimo usando linguagem natural que leia dois números inteiros "a" e "b",
+calcule a soma destes números e mostre o resultado.
+
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a soma de 'a' mais 'b';
+    3. Mostre o resultado desta soma.
